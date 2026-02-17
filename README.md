@@ -17,9 +17,9 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (Unisinos)**, atuo 
 
 ### 🎓 Formação e Qualificações
 
-- [cite_start]**Graduação:** Análise e Desenvolvimento de Sistemas - Unisinos (Prev. 2026) 
-- [cite_start]**Certificações:** UX Design & Interfaces Digitais (SENAI) [cite: 10]
-- [cite_start]**Idiomas:** Inglês Avançado (Leitura Fluente e Escrita Escrita) [cite: 14]
+- **Graduação:** Análise e Desenvolvimento de Sistemas - Unisinos (Prev. 2026) 
+- **Certificações:** UX Design & Interfaces Digitais (SENAI) [cite: 10]
+- **Idiomas:** Inglês Avançado (Leitura Fluente e Escrita Escrita) [cite: 14]
 
 ---
 
@@ -35,7 +35,3 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (Unisinos)**, atuo 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-luis-mendes-pedroso-60399532a)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoluispedroso@gmail.com)
 
----
-
-### 📊 GitHub Activity
-![Estatísticas do Bruno](https://github-readme-stats.vercel.app/api?username=brunoluispedroso-cmyk&show_icons=true&theme=radical)
