@@ -18,8 +18,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (Unisinos)**, atuo 
 ### 🎓 Formação e Qualificações
 
 - **Graduação:** Análise e Desenvolvimento de Sistemas - Unisinos (Prev. 2026) 
-- **Certificações:** UX Design & Interfaces Digitais (SENAI) [cite: 10]
-- **Idiomas:** Inglês Avançado (Leitura Fluente e Escrita Escrita) [cite: 14]
+- **Certificações:** UX Design & Interfaces Digitais (SENAI) 
+- **Idiomas:** Inglês Avançado (Leitura Fluente e Escrita Escrita) 
 
 ---
 
